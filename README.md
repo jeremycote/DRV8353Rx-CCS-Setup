@@ -5,6 +5,6 @@ Script was written with Python 3.10, but should work with older versions of Pyth
 
 ## Usage
 ```Bash
-# Read prompt carefully to not unexpected behaviour.
+# Read prompt carefully to not have unexpected behaviour.
 python main.py
 ```
